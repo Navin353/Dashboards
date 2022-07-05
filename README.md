@@ -1,2 +1,2 @@
-# Dashboards
-Creating dashboards using Excel for given dataset
+# Telecom Churn EDA
+
