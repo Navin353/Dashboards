@@ -1,6 +1,6 @@
 # Telecom Churn EDA
 
-In this repository, we have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn.
+In this repository, I have performed the end to end Exploratory Data Analysis, and idenfitied the characteristics of the customers that are more likely to churn.
 
 # Objective:
 We have data of several customers and our main goal is to find that the major reason for customers likely to churn.
